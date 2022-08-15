@@ -15,4 +15,7 @@ public class DrinkVendingMachineTEST {
 	 * 		TDD: analyse code and add missing methods.
 	 * */
 
+	DrinkVendingMachine theMachine = new DrinkVendingMachine();
+	DrinkVendingMachine machine;
+	DrinkVendingMachine machine2;
 }
